@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1483570043 source:c:\users\aarnav\git\ctci\m2\main.cpp
+	<iostream>
+	<vector>
+	<unordered_map>
+	<sstream>
+	<string>
+
