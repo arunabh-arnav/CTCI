@@ -37,7 +37,7 @@ we can use advanced string matching algorithms from CLRS to improve the running 
 ~None
 */
 
-/*Potential troubles
+/*Potential errors
 delimiting words using spaces (which can be multiple) and newlines
 */
 
