@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1483580149 source:c:\users\aarnav\git\ctci\m3\main.cpp
+	<iostream>
+	<utility>
+	<stdlib.h>
+
