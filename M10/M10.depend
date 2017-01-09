@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1483997212 source:c:\users\aarnav\git\ctci\m10\main.cpp
+	<iostream>
+	<vector>
+
